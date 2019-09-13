@@ -58,6 +58,7 @@ public class U1L04HotelCost {
 			
 			//System.out.println("For " + numNights + " it will cost: ");
 			//System.out.println(rockCost + " " + moonCost + " " + apolloCost + "");
+			//this is a test comment
 		}
 		
 	
